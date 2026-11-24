@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.meenaramswaroop1955_glitch.twa",
+        "sha256_cert_fingerprints": ["07:1D:61:52:E2:1F:42:68:DD:BC:EE:21:3F:8D:BA:7A:EA:5B:F2:C9:C7:9E:5C:EF:43:41:1C:38:02:54:03:17"]
+      }
+    }]
